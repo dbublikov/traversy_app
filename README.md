@@ -1,2 +1,2 @@
 # traversy_app
-Sample app for tutorial
+This is the sample app for tutorial
